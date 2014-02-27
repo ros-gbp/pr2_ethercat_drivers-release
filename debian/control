@@ -1,0 +1,12 @@
+Source: ros-hydro-fingertip-pressure
+Section: misc
+Priority: extra
+Maintainer: Austin Hendrix <ahendrix@willowgarage.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin, ros-hydro-geometry-msgs, ros-hydro-message-generation, ros-hydro-rostest, ros-hydro-std-msgs
+Homepage: http://ros.org/wiki/fingertip_pressure
+Standards-Version: 3.9.2
+
+Package: ros-hydro-fingertip-pressure
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-geometry-msgs, ros-hydro-message-runtime, ros-hydro-pr2-msgs, ros-hydro-rospy, ros-hydro-std-msgs, ros-hydro-visualization-msgs
+Description: This package provides access to the PR2 fingertip pressure sensors. This information includes:
