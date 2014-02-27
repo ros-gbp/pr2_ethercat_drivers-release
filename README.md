@@ -1,3 +1,25 @@
+## pr2_ethercat_drivers (hydro) - 1.8.8-1
+
+User `hendrix@arg` released the packages in the `pr2_ethercat_drivers` repository into the `hydro` distro by running `/usr/bin/bloom-release -r hydro --track hydro pr2_ethercat_drivers` on `Thu, 27 Feb 2014 17:38:37 -0000`
+
+These packages were released:
+- `ethercat_hardware`
+- `fingertip_pressure`
+- `pr2_ethercat_drivers`
+
+Version of package(s) in repository `pr2_ethercat_drivers`:
+- rosdistro version: `1.8.7-0`
+- old version: `1.8.8-0`
+- new version: `1.8.8-1`
+
+Versions of tools used:
+- bloom version: `0.5.1`
+- catkin_pkg version: `0.1.26`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## pr2_ethercat_drivers (hydro) - 1.8.8-0
 
 User `hendrix@vash` released the packages in the `pr2_ethercat_drivers` repository into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro pr2_ethercat_drivers` on `Thu, 27 Feb 2014 08:06:09 -0000`
