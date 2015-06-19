@@ -2,6 +2,12 @@
 Changelog for package ethercat_hardware
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.8.12 (2015-06-19)
+-------------------
+* Remove temp
+* Added install rules
+* Contributors: TheDash
+
 1.8.11 (2014-09-30)
 -------------------
 
